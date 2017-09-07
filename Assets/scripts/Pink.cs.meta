@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6e9bb72de8933b84580f82fdc8d04f22
+timeCreated: 1467968586
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pinkTemplate: {fileID: 171546, guid: 8cd1d25fdab788c43aab7394c10d9cf5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
